@@ -13,4 +13,4 @@ As result I am comparing the next day value prediction with the next day value f
 
 Here the plot :
 
-<img src="facebook_stock_prices_prediction.png"> </img>
+<img src="facebook_stock_prices_prediction.png" height="200"> </img>
