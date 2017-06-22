@@ -19,4 +19,4 @@ First example is a Regression Model:
 
     Here's the plot :
 
-    <img src="facebook_stock_prices_prediction.png" height="400"> </img>
+<img src="facebook_stock_prices_prediction.png" height="400"> </img>
