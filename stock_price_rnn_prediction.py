@@ -1,4 +1,4 @@
-# This will use Recurral Neural Network to predict the stock prices in the future
+# This will use Recurrent Neural Network to predict the stock prices in the future
 
 # STOCK: Facebook Inc - https://www.google.com/finance/historical?cid=296878244325128&startdate=Jan+1%2C+2010&enddate=Dec+31%2C+2016&num=30&ei=ncRLWeC_CsrOswGw6JbwCQ
 
