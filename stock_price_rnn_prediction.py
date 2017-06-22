@@ -93,4 +93,3 @@ plt.ylabel('Facebook Stock Price')
 plt.legend()
 plt.show()
 
-print predicted_stock_price
